@@ -1,0 +1,2 @@
+# PenghitungKata
+ Kata Dihitung
